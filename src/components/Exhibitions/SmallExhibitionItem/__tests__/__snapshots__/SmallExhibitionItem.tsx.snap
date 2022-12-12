@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SmallExhibitionItem Snapshot tests it matches the snapshot 1`] = `
+.c0 {
+  background-color: #f4d5d5;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+}
+
+.c1 {
+  padding: 4px;
+  width: 100%;
+}
+
+.c2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+.c3 {
+  padding-left: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Title
+    </div>
+    <div
+      class="c3"
+    >
+      Van Gogh
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Description
+    </div>
+    <div
+      class="c3"
+    />
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Is Featured
+    </div>
+    <div
+      class="c3"
+    >
+      No
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Gallery Title
+    </div>
+    <div
+      class="c3"
+    >
+      Ryerson Library Reading Room
+    </div>
+  </div>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Type of Exhibition
+    </div>
+    <div
+      class="c3"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,337 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Exhibitions Snapshot tests it matches the snapshot for basic use 1`] = `
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c4 {
+  width: 100%;
+  display: none;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c1 {
+  border-collapse: collapse;
+  display: block;
+}
+
+.c1 td,
+.c1 th {
+  border: 2px solid #E7E7E7;
+  padding: 10px;
+  text-align: center;
+}
+
+.c1 thead > tr {
+  background-color: #F3F3F3;
+  cursor: pointer;
+}
+
+.c2 {
+  background-color: #f4d5d5;
+  min-height: 60px;
+  height: 60px;
+}
+
+.c3 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.c5 {
+  background-color: #f4d5d5;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+}
+
+.c6 {
+  padding: 4px;
+  width: 100%;
+}
+
+.c7 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+.c8 {
+  padding-left: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+@media (max-width:716px) {
+  .c4 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media (max-width:716px) {
+  .c1 {
+    display: none;
+  }
+}
+
+<div
+  class="c0"
+>
+  <table
+    class="c1"
+  >
+    <thead>
+      <tr>
+        <th
+          class="text-center"
+          style="width: 20%;"
+        >
+          Title
+        </th>
+        <th
+          class="text-center"
+          style="width: 30%;"
+        >
+          Description
+        </th>
+        <th
+          class="text-center"
+          style="width: 10%;"
+        >
+          Is Featured
+        </th>
+        <th
+          class="text-center"
+          style="width: 20%;"
+        >
+          Gallery Title
+        </th>
+        <th
+          class="text-center"
+          style="width: 20%;"
+        >
+          Type of Exhibition
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        class="c2"
+      >
+        <td>
+          <div
+            class="c3"
+          >
+            Van Gogh
+          </div>
+        </td>
+        <td>
+          <div
+            class="c3"
+          />
+        </td>
+        <td>
+          No
+        </td>
+        <td>
+          Ryerson Library Reading Room
+        </td>
+        <td />
+      </tr>
+      <tr
+        class="c2"
+      >
+        <td>
+          <div
+            class="c3"
+          >
+            Van Gogh1
+          </div>
+        </td>
+        <td>
+          <div
+            class="c3"
+          />
+        </td>
+        <td>
+          No
+        </td>
+        <td>
+          Ryerson Library Reading Room
+        </td>
+        <td />
+      </tr>
+    </tbody>
+  </table>
+  <div
+    class="c4"
+  >
+    <div
+      class="c5"
+    >
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Title
+        </div>
+        <div
+          class="c8"
+        >
+          Van Gogh
+        </div>
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Description
+        </div>
+        <div
+          class="c8"
+        />
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Is Featured
+        </div>
+        <div
+          class="c8"
+        >
+          No
+        </div>
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Gallery Title
+        </div>
+        <div
+          class="c8"
+        >
+          Ryerson Library Reading Room
+        </div>
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Type of Exhibition
+        </div>
+        <div
+          class="c8"
+        />
+      </div>
+    </div>
+    <div
+      class="c5"
+    >
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Title
+        </div>
+        <div
+          class="c8"
+        >
+          Van Gogh1
+        </div>
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Description
+        </div>
+        <div
+          class="c8"
+        />
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Is Featured
+        </div>
+        <div
+          class="c8"
+        >
+          No
+        </div>
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Gallery Title
+        </div>
+        <div
+          class="c8"
+        >
+          Ryerson Library Reading Room
+        </div>
+      </div>
+      <div
+        class="c6"
+      >
+        <div
+          class="c7"
+        >
+          Type of Exhibition
+        </div>
+        <div
+          class="c8"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

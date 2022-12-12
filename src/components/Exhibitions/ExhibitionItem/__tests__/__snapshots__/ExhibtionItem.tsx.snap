@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExhibtionItem Snapshot tests it matches the snapshot 1`] = `
+.c0 {
+  background-color: #f4d5d5;
+  min-height: 60px;
+  height: 60px;
+}
+
+.c1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+<tr
+  class="c0"
+>
+  <td>
+    <div
+      class="c1"
+    >
+      Van Gogh
+    </div>
+  </td>
+  <td>
+    <div
+      class="c1"
+    >
+      Please note: this exhibition is open on weekdays only.
+    </div>
+  </td>
+  <td>
+    No
+  </td>
+  <td>
+    Ryerson Library Reading Room
+  </td>
+  <td />
+</tr>
+`;
